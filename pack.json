@@ -1,0 +1,14 @@
+{
+    "name": "orchestra-mcp/pack-chrome",
+    "description": "Chrome extension development skills with Manifest V3",
+    "version": "0.1.0",
+    "type": "pack",
+    "license": "MIT",
+    "stacks": ["typescript"],
+    "contents": {
+        "skills": ["chrome-extension"],
+        "agents": [],
+        "hooks": []
+    },
+    "tags": ["chrome", "extension", "browser", "manifest-v3"]
+}
